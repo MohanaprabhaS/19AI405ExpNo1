@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-Program:
+<h3>Program:</h3>
 
 
 ```
@@ -243,6 +243,6 @@ if   __name__ == "__main__":
 
 ```
 
-Result:
+<h3>Result:</h3>
 
 The PEAS description for the given AI problem and develop an AI agent is executed successfully.
