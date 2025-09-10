@@ -243,6 +243,11 @@ if   __name__ == "__main__":
 
 ```
 
+<h3>Output</h3>
+
+<img width="1920" height="1200" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/326dc3d4-d61f-4be0-9b43-27e97fd7a484" />
+
+
 <h3>Result:</h3>
 
 The PEAS description for the given AI problem and develop an AI agent is executed successfully.
